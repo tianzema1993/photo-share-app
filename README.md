@@ -6,3 +6,19 @@ The app is deployed on Heroku : https://photo-sharing-application.herokuapp.com/
 Login and Register
 
 <img width="600" height="400" src="IMG/login:register.png"/>
+
+View Friend's Information
+
+<img width="600" height="400" src="IMG/viewInfo.png"/>
+
+Add Comment and Mention Others
+
+<img width="600" height="400" src="IMG/AddCommentAndMention.png"/>
+
+Add New Photo and Specify Scope
+
+<img width="600" height="400" src="IMG/addPhoto.png"/>
+
+See All Favorite Photos
+
+<img width="600" height="400" src="IMG/seeFavorite.png"/>
