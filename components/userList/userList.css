@@ -1,0 +1,11 @@
+.nav-link {
+  color: blue;
+}
+
+.nav-link:visited {
+  color: blue;
+}
+
+.listTitle {
+  padding-left: 20px;
+}

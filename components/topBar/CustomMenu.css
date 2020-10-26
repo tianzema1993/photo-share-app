@@ -1,0 +1,20 @@
+.menu-link {
+  color: black;
+}
+
+.menu-link:visited {
+  color: black;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.dialog {
+  padding: 10px;
+  text-align: center;
+}
+
+.button {
+  width: 50%;
+}

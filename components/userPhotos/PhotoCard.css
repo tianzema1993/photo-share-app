@@ -1,0 +1,44 @@
+.photo-card {
+    overflow: visible !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.img {
+    width: 100%;
+    height: 350px;
+}
+
+.icons {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.title,.photo-card-content {
+    width: 100%;
+}
+
+.namelink {
+    color: blue;
+    text-decoration: none;
+}
+
+.namelink:hover {
+    text-decoration: underline;
+}
+
+.comment {
+    margin-left: 5px;
+}
+
+.newComment {
+    margin: 10px auto 0px;
+}
+
+.small-button {
+    border: none;
+    text-decoration: none;
+    background-color: inherit;
+}
